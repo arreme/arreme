@@ -1,5 +1,10 @@
 ## Hi there 👋
+He/Him
 
+I'm currently working on a videogame called Roombattle!
+I am developing Networked Gameplay mechanics as well as mantaining the project for the entire team.
+
+Learning Rust and ESP32 programming. Any open source projects to help? 
 <!--
 **arreme/arreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
